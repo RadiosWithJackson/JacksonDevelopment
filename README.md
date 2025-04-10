@@ -1,11 +1,10 @@
 ### Hi There 👋
 Current Projects
 
-[![JacksonDevelopment's Github Stats](https://github-readme-stats.vercel.app/api?username=JacksonDevelopment&show_icons=true&theme=github_dark&locale=en&border_radius=35)](https://github.com/anuraghazra/github-readme-stats)
+[![RadiosWithJackson's Github Stats](https://github-readme-stats.vercel.app/api?username=RadiosWithJackson&show_icons=true&theme=github_dark&locale=en&border_radius=35)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages Im leaning
 
-[![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)](https://kotlinlang.org/)
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://python.org/)
 
 Languages I Know
